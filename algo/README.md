@@ -1,0 +1,3 @@
+# sudoku.ai
+## Algorithms used
+
